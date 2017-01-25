@@ -1,0 +1,21 @@
+h1 {
+  font-size: 250%;
+}
+
+.center {
+  text-align: center;
+  clear: left;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    margin: auto;
+    width: 400px;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
