@@ -1,7 +1,7 @@
 const svg = document.getElementById("svg_grid");
 
 const lineWidth = 100;
-const needleLength = 100;
+const needleLength = 90;
 
 let numCrossed = 0;
 let numTotal = 0;
